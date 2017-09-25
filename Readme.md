@@ -1,5 +1,5 @@
 
-## Redux Rollbar Log Middleware
+## Redux Rollbar State Middleware
 
 Middleware that add redux state to the payload of [Rollbar](https://rollbar.com) logs
 
