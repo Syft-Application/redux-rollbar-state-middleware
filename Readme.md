@@ -3,6 +3,8 @@
 
 Middleware that add redux state to the payload of [Rollbar](https://rollbar.com) logs
 
+**Note:** `lib/` is in repo until we publish package on npm
+
 ### Installation
 
 ```
