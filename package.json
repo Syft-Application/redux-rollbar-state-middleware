@@ -1,6 +1,6 @@
 {
   "name": "redux-rollbar-state-middleware",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Middleware that add redux state to the payload of Rollbar logs",
   "main": "lib/redux-rollbar-state-middleware.js",
   "scripts": {
